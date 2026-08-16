@@ -11,6 +11,7 @@ Sales Dashboard With Clerk Auth
 ![License](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![License](https://img.shields.io/badge/Multiplatform-6C63FF?logo=codeforces&logoColor=white)
+![License](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white)
 
 📖 Descripción
 
@@ -20,7 +21,7 @@ Sales Dashboard With Clerk Auth es un proyecto enfocado en la gestión y visuali
 
 - 📊 Dashboard de ventas.
 - 🔐 Autenticación mediante Clerk.
-- 👤 Gestión de usuarios.
+- 👤 guardo x local storag y JSON de bakup y resuare 
 - 🪟 Compatibilidad con Windows.
 - 🤖 Compatibilidad con Android.
 - 🌍 Soporte multiplataforma.
