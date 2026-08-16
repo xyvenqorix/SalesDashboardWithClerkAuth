@@ -3,9 +3,9 @@ Sales Dashboard With Clerk Auth
 
 🌐 <a href="https://xyvenqorix.vercel.app">Wesite Del Creador</a>
 
-✨ Plataform 👇
+✨ Plataform 
 
-<a href="https://enventas.vercel.app/">Plataform</a>
+<a href="https://enventas.vercel.app/">Enter Plataform</a>
 
 «Un dashboard moderno para la gestión de ventas, desarrollado como proyecto multiplataforma con autenticación mediante Clerk.»
 
