@@ -12,6 +12,7 @@ Sales Dashboard With Clerk Auth
 ![License](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![License](https://img.shields.io/badge/Multiplatform-6C63FF?logo=codeforces&logoColor=white)
 ![License](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white)
+![License](https://img.shields.io/badge/Website-6C47FF?logo=googlechrome&logoColor=white)
 
 📖 Descripción
 
