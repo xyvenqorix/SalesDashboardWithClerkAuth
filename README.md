@@ -17,6 +17,8 @@ Sales Dashboard With Clerk Auth
 ![License](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white)
 ![License](https://img.shields.io/badge/Website-6C47FF?logo=googlechrome&logoColor=white)
 
+## 📖Como Vincularte a cleark pa usar la plataforma con tu Env
+splo registrate a clerk.com y en los ajustes dirá algo como .env copian ese código y crean su env local 
 ## 📖Descripción De la Plataforma 
 
 Sales Dashboard With Clerk Auth es un proyecto enfocado en la gestión y visualización de ventas, incorporando autenticación mediante Clerk y soporte para Windows, Android y diferentes entornos multiplataforma.
