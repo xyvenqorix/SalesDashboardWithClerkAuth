@@ -1,7 +1,7 @@
 Sales Dashboard With Clerk Auth
 ## creador Rodol_UGC CEO (xyvenqorix)
 
-🌐 <a href="https://xyvenqorix.vercel.app">Creador web</a>
+🌐 <a href="https://xyvenqorix.vercel.app">Wesite Del Creador</a>
 
 ✨ sistema web ✅️ 
 
