@@ -3,7 +3,7 @@ Sales Dashboard With Clerk Auth
 
 🌐 <a href="https://xyvenqorix.vercel.app">Wesite Del Creador</a>
 
-✨ sistema web ✅️ 
+✨ Plataform 👇
 
 <a href="https://enventas.vercel.app/">Plataform</a>
 
