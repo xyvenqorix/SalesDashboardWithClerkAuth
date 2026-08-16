@@ -21,7 +21,7 @@ Sales Dashboard With Clerk Auth es un proyecto enfocado en la gestión y visuali
 
 - 📊 Dashboard de ventas.
 - 🔐 Autenticación mediante Clerk.
-- 👤 guardo x local storag y JSON de bakup y resuare 
+- 👤 guardo en local storag y JSON de bakup y resuare 
 - 🪟 Compatibilidad con Windows.
 - 🤖 Compatibilidad con Android.
 - 🌍 Soporte multiplataforma.
