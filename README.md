@@ -7,6 +7,7 @@ Sales Dashboard With Clerk Auth
 «Un dashboard moderno para la gestión de ventas, desarrollado como proyecto multiplataforma con autenticación mediante Clerk.»
 
 ![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/Status-In%20Development-orange)
 
 📖 Descripción
 
