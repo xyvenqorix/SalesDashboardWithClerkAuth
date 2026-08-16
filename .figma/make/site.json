@@ -1,0 +1,10 @@
+{
+  "description": "Manage and register sales with secure authentication, export/import data in JSON, and generate customizable electronic invoices in PDF or PNG formats.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
