@@ -23,6 +23,10 @@ solo registrate a clerk.com y en los ajustes dirá algo como .env copian ese có
 
 Sales Dashboard With Clerk Auth es un proyecto enfocado en la gestión y visualización de ventas, incorporando autenticación mediante Clerk y soporte para Windows, Android y diferentes entornos multiplataforma.
 
+### Captura 
+
+<p align="center"><img src="https://i.ibb.co/wZ6NnGWq/image.png"></p>
+
 ## 🥸Características
 
 - 📊 Dashboard de ventas.
