@@ -8,6 +8,7 @@ Sales Dashboard With Clerk Auth
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![License](https://img.shields.io/badge/Status-In%20Development-orange)
+![License](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 📖 Descripción
 
