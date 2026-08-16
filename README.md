@@ -5,6 +5,7 @@ Sales Dashboard With Clerk Auth
 <a href="https://github.com/xyvenqorix/SalesDashboardWithClerkAuth/releases">Releases</a>
 
 «Un dashboard moderno para la gestión de ventas, desarrollado como proyecto multiplataforma con autenticación mediante Clerk.»
+
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 📖 Descripción
