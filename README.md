@@ -14,11 +14,11 @@ Sales Dashboard With Clerk Auth
 ![License](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white)
 ![License](https://img.shields.io/badge/Website-6C47FF?logo=googlechrome&logoColor=white)
 
-📖 Descripción De la Plataforma 
+📖 ##Descripción De la Plataforma 
 
 Sales Dashboard With Clerk Auth es un proyecto enfocado en la gestión y visualización de ventas, incorporando autenticación mediante Clerk y soporte para Windows, Android y diferentes entornos multiplataforma.
 
-✨ Características
+✨ ##Características
 
 - 📊 Dashboard de ventas.
 - 🔐 Autenticación mediante Clerk.
