@@ -2,7 +2,7 @@ Sales Dashboard With Clerk Auth
 
 ✨ sistema web ✅️ 
 
-<a href="https://github.com/xyvenqorix/SalesDashboardWithClerkAuth/releases">Releases</a>
+<a href="https://enventas.vercel.app/">Plataform</a>
 
 «Un dashboard moderno para la gestión de ventas, desarrollado como proyecto multiplataforma con autenticación mediante Clerk.»
 
@@ -14,7 +14,7 @@ Sales Dashboard With Clerk Auth
 ![License](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white)
 ![License](https://img.shields.io/badge/Website-6C47FF?logo=googlechrome&logoColor=white)
 
-📖 Descripción
+📖 Descripción De la Plataforma 
 
 Sales Dashboard With Clerk Auth es un proyecto enfocado en la gestión y visualización de ventas, incorporando autenticación mediante Clerk y soporte para Windows, Android y diferentes entornos multiplataforma.
 
