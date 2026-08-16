@@ -10,6 +10,7 @@ Sales Dashboard With Clerk Auth
 ![License](https://img.shields.io/badge/Status-In%20Development-orange)
 ![License](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![License](https://img.shields.io/badge/Multiplatform-6C63FF?logo=codeforces&logoColor=white)
 
 📖 Descripción
 
