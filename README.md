@@ -34,12 +34,8 @@ Sales Dashboard With Clerk Auth es un proyecto enfocado en la gestión y visuali
 Las tecnologías utilizadas dependerán del avance y la evolución del proyecto.
 
 🚀 Instalación
+```bash
 
 git clone https://github.com/xyvenqorix/SalesDashboardWithClerkAuth.git
 cd SalesDashboardWithClerkAuth
 
-👨‍💻 Creado por
-
-xyvenqorix
-
-🌐 <a href="https://xyvenqorix.vercel.app">Creador web</a>
