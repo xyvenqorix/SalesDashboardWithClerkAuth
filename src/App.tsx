@@ -803,5 +803,5 @@ export default function App() {
       <SignedOut><LoginScreen /></SignedOut>
       <SignedIn><AppShell /></SignedIn>
     </>
-  )
+  ) 
 }
